@@ -1,0 +1,21 @@
+{
+  "name": "medical",
+  "version": "1.0.0",
+  "description": "Local medical record review helpers.",
+  "type": "module",
+  "main": "src/extract-pdf-text.js",
+  "scripts": {
+    "extract": "node src/extract-pdf-text.js",
+    "extract:all": "node src/extract-pdf-text.js test_results --out-dir extracted_text",
+    "test": "node --test"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "private": true,
+  "engines": {
+    "node": ">=20.16.0 <21 || >=22.3.0"
+  },
+  "dependencies": {
+    "pdf-parse": "^2.4.5"
+  }
+}
