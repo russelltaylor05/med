@@ -26,7 +26,7 @@ The finalized 2026-06-03 EBV panel adds a possible recent infection/recovery/rea
 ## Why This Is Not Certain
 
 - No clinician exam has documented enthesitis, synovitis, sacroiliitis, dactylitis, restricted chest expansion, or reduced spinal mobility yet.
-- No SI joint or spine imaging is available yet.
+- No SI joint/pelvis imaging or MRI is available yet. Thoracic spine x-ray on 2026-06-08 showed mild degenerative changes only, without fracture, dislocation, lytic/blastic lesion, or high-grade disc height loss.
 - No clear Achilles, plantar fascia, knee, or sausage-digit symptoms have been reported.
 - No major fatigue, inflammatory bowel symptoms, or eye inflammation symptoms have been reported.
 - Normal CRP and negative HLA-B27 reduce some supporting evidence.

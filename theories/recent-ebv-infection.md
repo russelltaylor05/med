@@ -15,6 +15,7 @@ This is a new active possibility based on the finalized Quest report from the 20
 - Quest interpretation: suggestive of a recent Epstein-Barr virus infection.
 - Acute hepatitis panel on the same final report was non-reactive for hepatitis A IgM, hepatitis B core IgM, hepatitis B surface antigen, and hepatitis C antibody.
 - Thyroid results on the same final report were within listed reference ranges: TSH 1.30, free T4 1.4, free T3 3.1, and TPO antibody <1.
+- 2026-06-08 CBC with differential was within the report's listed reference ranges, including WBC 4.9 K/uL, absolute lymphocytes 2.09 K/uL, hemoglobin 16.1 g/dL, and platelets 221 K/uL.
 
 ## Why This Fits
 
@@ -28,6 +29,7 @@ This is a new active possibility based on the finalized Quest report from the 20
 - EBNA IgG is already positive. CDC describes EBNA as appearing later after symptom onset and persisting for life, and Mayo notes that a VCA IgM positive, VCA IgG positive, EBNA IgG positive pattern may suggest recent EBV recovery or reactivation. This is not the cleanest early primary infection pattern.
 - The current symptom summary does not report classic mono features such as prominent fatigue, fever, sore throat, swollen neck nodes, or left upper abdominal/spleen symptoms.
 - The musculoskeletal symptoms began roughly around late 2025 and have a 6-month course, while the EBV blood draw was 2026-06-03. That timing could mean EBV is concurrent or contributory rather than causal.
+- The 2026-06-08 CBC does not show leukocytosis, leukopenia, anemia, thrombocytopenia, or absolute lymphocytosis. This weakens a florid active mono blood-count picture on that date, but does not rule out recent EBV activity or recovery.
 - EBV does not neatly explain longstanding psoriasis, around 15 years of nail pitting/ridges, enthesis-region pain, inflammatory-back-pain features, or rib/chest wall stiffness.
 - EBV VCA IgM can require clinical correlation and, in some situations, follow-up testing to distinguish recent recovery, reactivation, persistent IgM, or assay nuance.
 

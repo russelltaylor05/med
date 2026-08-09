@@ -22,7 +22,7 @@ This is currently the best-fit theory because it ties together longstanding psor
 ## What Does Not Match Or Is Missing
 
 - No documented rheumatology exam yet.
-- No SI joint/spine imaging yet.
+- No SI joint/pelvis imaging yet. Thoracic spine x-ray on 2026-06-08 showed mild degenerative changes only, without fracture, dislocation, lytic/blastic lesion, or high-grade disc height loss.
 - No confirmed enthesitis, synovitis, dactylitis, sacroiliitis, reduced chest expansion, or reduced spinal mobility.
 - HLA-B27 is negative.
 - CRP is normal.

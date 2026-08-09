@@ -7,6 +7,8 @@
   "scripts": {
     "extract": "node src/extract-pdf-text.js",
     "extract:all": "node src/extract-pdf-text.js test_results --out-dir extracted_text",
+    "db:import": "node src/import-test-results.js",
+    "db:rebuild": "node src/import-test-results.js --reset",
     "test": "node --test"
   },
   "author": "",

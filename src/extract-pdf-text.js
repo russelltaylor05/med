@@ -121,6 +121,6 @@ Options:
   -h, --help            Show this help text.
 
 Examples:
-  npm run extract -- test_results/5-15-2020.pdf
+  npm run extract -- test_results/2026-05-15-quest-ana-hla-b27-crp-lyme.pdf
   npm run extract -- test_results --out-dir extracted_text`);
 }
