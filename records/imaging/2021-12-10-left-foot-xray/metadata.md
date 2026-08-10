@@ -20,9 +20,9 @@ Generated from DICOM headers on 2026-06-08. This is a metadata inventory, not a 
 
 | View | PNG | Source DICOM | DICOM Geometry | Notes |
 | --- | --- | --- | --- | --- |
-| Left foot frontal/AP | `left-foot-ap.png` | `1.2.392.200036.9125.4.0.2216798369.251659624.3821691018.dcm` | 963x2079, 14-bit grayscale source | Header/string label: FOOT; patient orientation L\F; photometric MONOCHROME1. |
-| Left foot oblique | `left-foot-oblique.png` | `1.2.392.200036.9125.4.0.2216798369.352322920.3821691018.dcm` | 1000x2000, 14-bit grayscale source | Header/string label: FOOT OBL; patient orientation L\F; photometric MONOCHROME1. |
-| Left foot lateral | `left-foot-lateral.png` | `1.2.392.200036.9125.4.0.2216798369.452986216.3821691018.dcm` | 2283x1048, 14-bit grayscale source | Header/string label: FOOT LAT; patient orientation P\F; photometric MONOCHROME1. |
+| Left foot frontal/AP | `renders/left-foot-ap.png` | `dicom/1.2.392.200036.9125.4.0.2216798369.251659624.3821691018.dcm` | 963x2079, 14-bit grayscale source | Header/string label: FOOT; patient orientation L\F; photometric MONOCHROME1. |
+| Left foot oblique | `renders/left-foot-oblique.png` | `dicom/1.2.392.200036.9125.4.0.2216798369.352322920.3821691018.dcm` | 1000x2000, 14-bit grayscale source | Header/string label: FOOT OBL; patient orientation L\F; photometric MONOCHROME1. |
+| Left foot lateral | `renders/left-foot-lateral.png` | `dicom/1.2.392.200036.9125.4.0.2216798369.452986216.3821691018.dcm` | 2283x1048, 14-bit grayscale source | Header/string label: FOOT LAT; patient orientation P\F; photometric MONOCHROME1. |
 
 PNG files were rendered with ImageMagick from the DICOM pixel data using grayscale auto-leveling. The generated PNGs are 16-bit grayscale display files.
 
@@ -30,7 +30,7 @@ PNG files were rendered with ImageMagick from the DICOM pixel data using graysca
 
 | File | Type | Notes |
 | --- | --- | --- |
-| `2.16.840.1.114151.3.1.14963944.13935069.4696.1639177013.7.dcm` | Grayscale softcopy presentation state | Display/presentation companion referencing the left foot images; does not render as a separate radiographic view. |
+| `dicom/2.16.840.1.114151.3.1.14963944.13935069.4696.1639177013.7.dcm` | Grayscale softcopy presentation state | Display/presentation companion referencing the left foot images; does not render as a separate radiographic view. |
 
 ## Notes
 

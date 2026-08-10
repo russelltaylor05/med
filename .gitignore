@@ -2,20 +2,16 @@ node_modules/
 .DS_Store
 npm-debug.log*
 
-# Generated extraction/OCR/temp processing artifacts.
-extracted_text/
-ocr_tmp/
-tmp/
-temp/
+# Generated extraction/OCR/database/temp processing artifacts.
+generated/
 *.tmp
 *.temp
 
 # Local generated databases contain medical data.
-data/
 *.db
 *.db-*
 *.sqlite
 *.sqlite-*
 
 # Generated image renders from source DICOMs.
-x_rays_source/**/*.png
+records/imaging/*/renders/

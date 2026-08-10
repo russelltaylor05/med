@@ -3,12 +3,12 @@
   "version": "1.0.0",
   "description": "Local medical record review helpers.",
   "type": "module",
-  "main": "src/extract-pdf-text.js",
+  "main": "tooling/scripts/extract-pdf-text.js",
   "scripts": {
-    "extract": "node src/extract-pdf-text.js",
-    "extract:all": "node src/extract-pdf-text.js test_results --out-dir extracted_text",
-    "db:import": "node src/import-test-results.js",
-    "db:rebuild": "node src/import-test-results.js --reset",
+    "extract": "node tooling/scripts/extract-pdf-text.js",
+    "extract:all": "node tooling/scripts/extract-pdf-text.js records/labs --out-dir generated/extracted-text",
+    "db:import": "node tooling/scripts/import-test-results.js",
+    "db:rebuild": "node tooling/scripts/import-test-results.js --reset",
     "test": "node --test"
   },
   "author": "",

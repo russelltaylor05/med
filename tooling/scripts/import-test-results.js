@@ -5,8 +5,8 @@ import { fileURLToPath } from 'node:url';
 import { parseArgs } from 'node:util';
 import { PDFParse } from 'pdf-parse';
 
-const DEFAULT_DB_PATH = 'data/medical.sqlite';
-const DEFAULT_INPUTS = ['test_results'];
+const DEFAULT_DB_PATH = 'generated/database/medical.sqlite';
+const DEFAULT_INPUTS = ['records/labs'];
 
 const { values, positionals } = parseArgs({
   allowPositionals: true,
@@ -45,7 +45,7 @@ async function main() {
     await rm(dbPath, { force: true });
   }
 
-  const schemaPath = fileURLToPath(new URL('../db/schema.sql', import.meta.url));
+  const schemaPath = fileURLToPath(new URL('../database/schema.sql', import.meta.url));
   const schemaSql = await readFile(schemaPath, 'utf8');
   runSql(dbPath, schemaSql);
 
@@ -1013,7 +1013,7 @@ Options:
 
 Examples:
   npm run db:rebuild
-  npm run db:import -- test_results/2026-06-03-quest-ebv-hepatitis-thyroid-final.pdf`);
+  npm run db:import -- records/labs/2026/2026-06-03-quest-ebv-hepatitis-thyroid-final.pdf`);
 }
 
 await main();

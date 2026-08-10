@@ -6,42 +6,48 @@ Help review the user's symptoms, history, and test results to support diagnosis 
 
 This project is for medical reasoning support, not a substitute for emergency care, in-person examination, or clinician diagnosis and treatment.
 
-## Files
+## Project map
 
-### `SYMPTOMS.md`
+### `patient/`
 
-Symptoms, sensations, limitations, and observations the user thinks might be related. These are user-noticed possibilities, not proof that each item has the same cause.
+- `profile.md`: concise patient background.
+- `symptoms.md`: patient-noticed symptoms, sensations, limitations, and patterns. These are possibilities, not proof that every item has the same cause.
+- `history.md`: remembered diagnoses, medications, exposures, procedures, allergies, and family history.
+- `timeline.md`: dated source events and remembered timeline anchors.
 
-### `HISTORY.md`
+### `records/`
 
-Short, sweet medical history the user remembers: past diagnoses, medications, allergies, procedures, family history, exposures, and major timeline anchors.
+Original source files from the user. These are authoritative and must not be edited unless explicitly requested.
 
-### `MEMORY.md`
+- `labs/YYYY/`: original laboratory reports by collection year.
+- `imaging/YYYY-MM-DD-study-name/`: one folder per study, including reports, metadata, original archives, DICOMs, and generated renders.
+- `clinical-notes/`: original clinician notes and after-visit summaries.
 
-Working memory for the investigation: reviewed files, lab summaries, current interpretation, open questions, possible diagnoses, treatment options to discuss, and useful sources.
+### `analysis/`
 
-### `theories/`
+- `current-assessment.md`: concise current interpretation, next steps, and safety notes.
+- `evidence-summary.md`: detailed reviewed-result summaries and longitudinal reasoning.
+- `open-questions.md`: unresolved facts and clinician-facing questions.
+- `analysis/theories/`: active hypotheses. Each theory should explain what fits, what does not fit, what would confirm or weaken it, possible treatment paths to discuss, and supporting research.
+- `analysis/theories/overview.md`: ranked comparison of active theories.
+- `analysis/theories/research/`: source notes, links, and dated research snapshots.
 
-Folder for possible conditions and working hypotheses.
+### `generated/`
 
-- Each theory should explain what fits, what does not fit, what would confirm or weaken it, possible treatment paths to discuss, and supporting research.
-- `overview.md` compares the active theories and summarizes what matches or does not match.
-- `research/` stores source notes, links, and research snapshots used by the theory files.
+Ignored and reproducible artifacts: extracted text, the local SQLite database, OCR images, and temporary review files. Original records remain the authority.
 
-### `test_results/`
+### `tooling/`
 
-Original source files from the user, such as lab reports, imaging reports, and other medical documents. Do not edit these files unless explicitly asked.
-
-### `extracted_text/`
-
-Generated text extracted from source files. Helpful for searching and review, but the original report remains the authority.
+Local extraction/import scripts and the database schema.
 
 ## Workflow
 
-- Check `SYMPTOMS.md`, `HISTORY.md`, and `MEMORY.md` before interpreting new information.
-- Put new user-noticed symptoms in `SYMPTOMS.md`.
-- Put concise remembered background in `HISTORY.md`.
-- Put reasoning, summaries, questions, and next-step options in `MEMORY.md`.
-- Keep facts separate from interpretation.
-- Use absolute dates when known.
+- Start with `README.md` for navigation.
+- Check `patient/symptoms.md`, `patient/history.md`, `patient/timeline.md`, and `analysis/current-assessment.md` before interpreting new information.
+- Put new patient-noticed symptoms in `patient/symptoms.md`.
+- Put concise remembered background in `patient/history.md` and dated events in `patient/timeline.md`.
+- Put the current interpretation in `analysis/current-assessment.md`, detailed result review in `analysis/evidence-summary.md`, and unresolved questions in `analysis/open-questions.md`.
+- Update `analysis/theories/overview.md` when the relative ranking of hypotheses changes.
+- Keep facts separate from interpretation and use absolute dates when known.
+- Preserve source files unchanged and keep generated derivatives out of source-record folders except for the clearly labeled imaging `renders/` directory.
 - For PDFs, use `npm run extract -- path/to/report.pdf` when text extraction helps.

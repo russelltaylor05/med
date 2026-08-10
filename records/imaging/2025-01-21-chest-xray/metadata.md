@@ -20,8 +20,8 @@ Generated from DICOM headers on 2026-06-08. This is a metadata inventory, not a 
 
 | View | PNG | Source DICOM | DICOM Geometry | Notes |
 | --- | --- | --- | --- | --- |
-| Chest PA | `chest-pa.png` | `1.2.392.200036.9125.4.0.2066210931.3674211688.3821691018.dcm` | 2836x2336, 14-bit grayscale source | Header/string label: CHEST PA X-WISE; patient orientation L\F; photometric MONOCHROME1. |
-| Chest lateral | `chest-lateral.png` | `1.2.392.200036.9125.4.0.2066210931.3774874984.3821691018.dcm` | 2336x2788, 14-bit grayscale source | Header/string label: CHEST LAT; patient orientation P\F; photometric MONOCHROME1. |
+| Chest PA | `renders/chest-pa.png` | `dicom/1.2.392.200036.9125.4.0.2066210931.3674211688.3821691018.dcm` | 2836x2336, 14-bit grayscale source | Header/string label: CHEST PA X-WISE; patient orientation L\F; photometric MONOCHROME1. |
+| Chest lateral | `renders/chest-lateral.png` | `dicom/1.2.392.200036.9125.4.0.2066210931.3774874984.3821691018.dcm` | 2336x2788, 14-bit grayscale source | Header/string label: CHEST LAT; patient orientation P\F; photometric MONOCHROME1. |
 
 PNG files were rendered with ImageMagick from the DICOM pixel data using grayscale auto-leveling. The generated PNGs are 16-bit grayscale display files.
 
@@ -29,8 +29,8 @@ PNG files were rendered with ImageMagick from the DICOM pixel data using graysca
 
 | File | Type | Notes |
 | --- | --- | --- |
-| `2.16.840.1.114151.3.1.5035799.9686683.25192.1737510456.310.dcm` | Grayscale softcopy presentation state | Display/presentation companion referencing the chest images; does not render as a separate radiographic view. |
-| `2.16.840.1.114151.3.1.5035799.9686683.25192.1737510457.312.dcm` | Grayscale softcopy presentation state | Display/presentation companion referencing the chest images; does not render as a separate radiographic view. |
+| `dicom/2.16.840.1.114151.3.1.5035799.9686683.25192.1737510456.310.dcm` | Grayscale softcopy presentation state | Display/presentation companion referencing the chest images; does not render as a separate radiographic view. |
+| `dicom/2.16.840.1.114151.3.1.5035799.9686683.25192.1737510457.312.dcm` | Grayscale softcopy presentation state | Display/presentation companion referencing the chest images; does not render as a separate radiographic view. |
 
 ## Notes
 

@@ -1,13 +1,13 @@
 # Test Results Database
 
-The schema is tracked in `db/schema.sql`. The populated SQLite database is generated locally at `data/medical.sqlite` and is ignored by git because it contains medical data.
+The schema is tracked in `tooling/database/schema.sql`. The populated SQLite database is generated locally at `generated/database/medical.sqlite` and is ignored by Git because it contains medical data.
 
 Useful commands:
 
 ```sh
 npm run db:rebuild
 npm run db:import
-sqlite3 data/medical.sqlite
+sqlite3 generated/database/medical.sqlite
 ```
 
 Current duplicate rules:

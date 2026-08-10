@@ -21,7 +21,7 @@ if (values.help) {
   process.exit(0);
 }
 
-const inputs = positionals.length > 0 ? positionals : ['test_results'];
+const inputs = positionals.length > 0 ? positionals : ['records/labs'];
 const pdfFiles = await collectPdfFiles(inputs);
 
 if (pdfFiles.length === 0) {
@@ -121,6 +121,6 @@ Options:
   -h, --help            Show this help text.
 
 Examples:
-  npm run extract -- test_results/2026-05-15-quest-ana-hla-b27-crp-lyme.pdf
-  npm run extract -- test_results --out-dir extracted_text`);
+  npm run extract -- records/labs/2026/2026-05-15-quest-ana-hla-b27-crp-lyme.pdf
+  npm run extract -- records/labs --out-dir generated/extracted-text`);
 }
