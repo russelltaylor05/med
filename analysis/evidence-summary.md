@@ -136,8 +136,7 @@ Completed in the partial Quest report collected 2026-06-03 and finalized in the 
 - Vertigo and dizziness begin with ear popping and feel similar to motion sickness.
 - Evening chest pain episodes on 2026-05-26 and 2026-05-27, seeming to emanate from ribs and back, each lasting about 2 hours and resolving.
 - Longstanding psoriasis diagnosis, not recent, for over 10 years.
-- Nail pitting/ridges duration is uncertain: `patient/history.md` records around 10 years, while a prior 2026-06-08 clarification suggested around 15 years/roughly since 2011.
-- Intermittent groin plaques were noted in earlier history/timeline notes; current status should be confirmed.
+- Nail pitting was diagnosed; associated nail ridges are reported. Duration is uncertain: `patient/history.md` records around 10 years, while a prior 2026-06-08 clarification suggested around 15 years/roughly since 2011.
 - Accutane for 6 months, stopped about 30 days before 2026-05-29.
 - December 2025: user recalls beginning of back pain.
 - December 2025: sudden vertigo/nausea episode lasting weeks, with inability to bend over without nausea/sickness, gradually diminishing over weeks.
@@ -483,6 +482,24 @@ This reassessment intentionally starts from `patient/symptoms.md`, `patient/hist
 - A sports-medicine/physiatry or skilled PT exam should attempt to reproduce pain with specific hamstring, gluteal/adductor, medial-elbow, hip, lumbar, SI, and neural-tension tests. A clear load pattern and improvement with a graded strengthening/load-management plan would support the mixed mechanical/tendon model.
 - Because symptoms remain present more than three months after the last isotretinoin dose on 2026-05-01, medication may still have initiated or amplified the syndrome, but persistence without any improvement makes a medication-only explanation less complete and warrants objective reassessment.
 
+## Marked Prednisone Response Reassessment, 2026-08-12
+
+### New patient-reported fact
+
+- After several days of oral prednisone, the patient reported that most pain had gone completely or nearly completely. The dose was increased to 10 mg on 2026-08-12. The exact first-dose date and dose sequence are uncertain because the 2026-08-10 initial report said the intended daily dose was 10 mg, while the later report specifies that 10 mg was an increase.
+
+### What this adds—and does not add
+
+- The broad response is more compatible with a currently active, steroid-responsive component than with a single focal tendon injury as the complete explanation. In this case, it gives more weight to psoriatic/axial spondyloarthritis or inflammatory enthesitis, and to localized inflammatory sacroiliitis/enthesitis potentially associated with isotretinoin.
+- It is not a diagnostic steroid test. Prednisone can reduce pain from immune-mediated inflammation, non-autoimmune post-injury inflammation, irritated tendon/bursa/nerve-adjacent tissue, and downstream muscle guarding. The response therefore cannot distinguish psoriatic disease from drug-associated inflammation or prove that a mechanical contributor is absent.
+- At age 39, polymyalgia rheumatica is a very poor fit despite its classic steroid responsiveness; it generally affects adults aged 50 or older and usually presents with bilateral shoulder and hip-girdle pain/stiffness rather than a six-month attachment-site/axial syndrome.
+- The pre-existing psoriasis and nail pitting make psoriatic arthritis/SpA especially important to reassess. There is no single confirmatory blood test; diagnosis rests on the pattern of symptoms, examination, and targeted imaging. Normal ESR/CRP and a negative HLA-B27 should not independently rule out SpA.
+
+### Clinical consequence
+
+- Relay the marked, multisite response, exact dose timing, and planned taper to the prednisone prescriber and rheumatologist promptly. Use a short daily site-by-site log rather than continuing unstructured dose changes. The next discriminatory evidence remains a focused inflammatory examination and, when it would change treatment, SI-joint inflammatory-protocol MRI and/or Doppler ultrasound at accessible symptomatic entheses.
+- Prednisone can suppress or mask signs of infection, and its risks rise with dose and duration. Follow the prescriber's dose and taper instructions rather than continuing, escalating, or abruptly stopping it independently.
+
 ## Open Questions Snapshot, 2026-08-08
 
 - Is the pain now truly continuous at rest, and has its resting intensity changed from the earlier 1/10 estimate? Does it wake the patient during the second half of the night?
@@ -546,6 +563,7 @@ This reassessment intentionally starts from `patient/symptoms.md`, `patient/hist
 ## Sources Consulted
 
 - DailyMed isotretinoin prescribing information, musculoskeletal abnormalities, reviewed 2026-08-08: https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=08529687-26b2-41e5-b6fb-35b4c0d891fe
+- DailyMed prednisone prescribing information, immunosuppression and dose/duration precautions, reviewed 2026-08-12: https://dailymed.nlm.nih.gov/dailymed/fda/fdaDrugXsl.cfm?setid=1e05e071-0407-0970-e063-6294a90a6c65
 - Almutairi et al., isotretinoin musculoskeletal side effects systematic review, reviewed 2026-08-08: https://pubmed.ncbi.nlm.nih.gov/39749120/
 - Civelek et al., prospective controlled study of isotretinoin-associated inflammatory back pain and sacroiliitis, reviewed 2026-08-08: https://pubmed.ncbi.nlm.nih.gov/35092165/
 - NIAMS, Psoriatic Arthritis, reviewed 2026-08-08: https://www.niams.nih.gov/health-topics/psoriatic-arthritis

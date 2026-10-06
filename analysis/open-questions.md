@@ -16,6 +16,7 @@ Use this as the active question list. Move resolved facts into the patient histo
 - Are poor sleep, brain fog, sensory sensitivity, or widespread tenderness present?
 - Which activities are worst: sitting, driving, squatting, hip hinges, uphill walking, running, rowing, lunges, forward folds, stretching, or spinal movement?
 - Are there alternating buttock pain, swollen joints, heel or plantar-fascia pain, current psoriasis/nail activity, bowel inflammation symptoms, or eye redness/pain/light sensitivity?
+- Prednisone response: what was the exact first dose/date, daily dose sequence, and prescriber's planned duration/taper? Which sites improved, how quickly, and are morning stiffness, night waking, chest-wall pain, hamstring pain, and elbow pain each absent, reduced, or unchanged at 10 mg? Are there insomnia, mood change, elevated glucose, reflux, fever, or infection symptoms?
 
 ## Clinician records
 
@@ -45,6 +46,7 @@ Use this as the active question list. Move resolved facts into the patient histo
 - Obtain the rheumatology note before repeating the same autoimmune workup without new evidence.
 - Discuss a focused sports-medicine/PM&R evaluation and targeted imaging when examination or rehabilitation response does not localize the problem.
 - If inflammatory suspicion remains meaningful, ask whether SI-joint MRI or Doppler ultrasound is appropriate despite normal ESR/CRP and negative HLA-B27.
+- Ask whether the marked, multisite prednisone response changes the need or timing for rheumatology reassessment and targeted SI-joint/enthesis imaging. The clinical team should know the steroid exposure when interpreting current symptoms and imaging.
 - For suspected proximal hamstring tendinopathy, discuss load management and graded strengthening rather than aggressive stretching or rest-only care.
 - Review the isotretinoin timeline and full supplement/medication inventory with dermatology or primary care; do not deliberately rechallenge or start high-dose vitamin A.
 - Do not take iron empirically: available ferritin, iron saturation, hemoglobin, and MCV did not indicate iron deficiency.

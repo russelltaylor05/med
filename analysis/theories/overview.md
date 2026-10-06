@@ -1,26 +1,23 @@
 # Theories Overview
 
-Last updated: 2026-08-08
+Last updated: 2026-08-12
 
 This is a working differential, not a diagnosis. It is based on the symptoms currently recorded, the original laboratory reports, the thoracic radiology report, medication timing, and the patient's report that multiple clinicians do not think the blood results indicate autoimmune disease. Their examination notes are not yet available.
 
 ## Bottom Line
 
-The best current explanation is a **two-hit musculoskeletal model**:
+After several days of prednisone, the patient reports that most pain is completely or nearly completely gone; the dose was increased to 10 mg on 2026-08-12. This is an important but nonspecific clue. It makes a broad steroid-responsive inflammatory component more likely and makes a purely mechanical explanation less satisfactory as the sole unifier. It does not diagnose autoimmune disease: mechanical tissue inflammation, localized sacroiliitis, medication-associated inflammation, and protective muscle guarding can also improve temporarily with prednisone.
 
-1. **Compression-sensitive proximal hamstring tendinopathy or related ischial-region injury**, plus a separate rowing-related medial-elbow tendinopathy and mechanical spine/muscle guarding.
-2. **Isotretinoin-associated loss of musculoskeletal load tolerance or axial pain**, beginning during the latest approximately six-month course and potentially making ordinary loading unusually provocative.
-
-This model explains the focal sit-bone pain, sitting/stretching/squat triggers, pre-existing row-triggered elbow problem, low resting pain, full forced range of motion, widespread stiffness that began during isotretinoin exposure, and quiet muscle/inflammatory/metabolic blood work. It does not require every symptom to come from one disease.
+The current best model is **mixed disease until proven otherwise**: a possible psoriatic/axial or enthesitis-predominant inflammatory process, potentially overlapping with genuine mechanical proximal-hamstring and rowing-related medial-elbow tendinopathy. Isotretinoin remains a plausible contributor or trigger, not a proven explanation.
 
 ## Ranked Differential
 
 | Rank | Theory | Current fit | Main discriminator |
 | --- | --- | --- | --- |
-| 1 | [Multisite mechanical tendinopathy and load-capacity mismatch](./multisite-mechanical-tendinopathy.md) | High, especially for bilateral sit-bone/proximal hamstring and medial-elbow symptoms | Reproduction with ischial palpation, resisted knee flexion/hip extension, tendon-compression tests, rowing/loading; improvement with a properly dosed graded-loading program |
-| 2 | [Isotretinoin-associated musculoskeletal effects](./isotretinoin-associated-musculoskeletal-effects.md) | High as a contributor; causation not proven | Exact dose/course timeline, symptom change after dose changes or stopping, targeted examination, and SI/pelvic or tendon imaging when indicated |
-| 3 | [Drug-associated sacroiliitis/inflammatory back-pain phenotype](./isotretinoin-associated-musculoskeletal-effects.md#localized-sacroiliitis-is-the-main-retinoid-related-condition-still-worth-testing) | Moderate and specifically testable; this would not necessarily mean chronic autoimmune disease | Dedicated SI-joint MRI if the history has alternating buttock pain, second-half-of-night waking, clear improvement with exercise, and poor relief with rest |
-| 4 | [Psoriatic spondyloarthritis with enthesitis](./psoriatic-spondyloarthritis-enthesitis.md) | Residual moderate possibility, below the two-hit model | Objective inflammatory examination or imaging: synovitis, dactylitis, Doppler-positive/erosive enthesitis, reduced chest expansion, or convincing SI MRI findings |
+| 1 | [Psoriatic spondyloarthritis with enthesitis](./psoriatic-spondyloarthritis-enthesitis.md) | Moderate and moved up after the broad prednisone response; psoriasis/nail disease, age at onset, morning/inactivity stiffness, axial/chest-wall and attachment distribution fit | Objective inflammatory examination or imaging: synovitis, dactylitis, Doppler-positive/erosive enthesitis, reduced chest expansion, or convincing SI MRI findings |
+| 2 | [Drug-associated sacroiliitis/inflammatory back-pain phenotype](./isotretinoin-associated-musculoskeletal-effects.md#localized-sacroiliitis-is-the-main-retinoid-related-condition-still-worth-testing) | Moderate; isotretinoin exposure and steroid response support active inflammation but do not establish drug causation or rule out PsA | Dedicated SI-joint MRI if the history has alternating buttock pain, second-half-of-night waking, clear improvement with exercise, and poor relief with rest |
+| 3 | [Multisite mechanical tendinopathy and load-capacity mismatch](./multisite-mechanical-tendinopathy.md) | Still high for focal sit-bone/proximal-hamstring and medial-elbow symptoms, but less convincing as the sole explanation for broad, near-complete prednisone response | Reproduction with ischial palpation, resisted knee flexion/hip extension, tendon-compression tests, rowing/loading; improvement with a properly dosed graded-loading program |
+| 4 | [Isotretinoin-associated musculoskeletal effects](./isotretinoin-associated-musculoskeletal-effects.md) | Moderate as a contributor or trigger; causation remains unproven, particularly because symptoms persisted after withdrawal | Exact dose/course timeline, symptom change after dose changes or stopping, targeted examination, and SI/pelvic or tendon imaging when indicated |
 | 5 | Lumbar referral, deep-gluteal/ischial-tunnel irritation, ischial bursitis, or partial proximal-hamstring injury | Moderate as a local contributor | Neurologic and hip/pelvic examination; targeted ultrasound or MRI if the examination is uncertain, weakness/tear clues exist, or good rehabilitation fails |
 | 6 | [Acne/psoriasis-associated osteitis (SAPHO spectrum)](./sapho-acne-associated-osteitis.md) | Low, but worth one targeted screen because of severe scalp acne plus chest-wall/axial pain | Focal sternoclavicular/manubriosternal swelling or tenderness, palm/sole pustules, and characteristic osteitis/hyperostosis on targeted imaging |
 | 7 | [Recent EBV recovery/reactivation](./recent-ebv-infection.md) | Low as a unifier; possible temporary June amplifier | A genuine mono-like illness temporally linked to the early-June low energy/headache episode; the all-three-positive antibody pattern alone is not proof of new primary EBV |

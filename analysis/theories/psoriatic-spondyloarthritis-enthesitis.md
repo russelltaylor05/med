@@ -4,13 +4,14 @@ Last updated: 2026-08-08
 
 ## Status
 
-This remains the strongest chronic inflammatory unifier, but it is no longer the leading overall explanation and is not established. The current center of gravity is a two-hit model of mechanical tendon load intolerance plus isotretinoin-associated musculoskeletal effects. Psoriatic/axial disease stays active because blood tests alone cannot exclude it and the psoriasis/nail history is genuine risk context.
+This is now a leading hypothesis, but it is not established. After several days of oral prednisone, the patient reported near-complete relief of most pain, which raises the likelihood of a broad steroid-responsive inflammatory component. Psoriatic/axial disease remains unproven because a steroid response is nonspecific and no objective inflammatory examination or imaging finding is in the workspace.
 
 The missing piece is objective evidence: a convincing inflammatory history and examination, Doppler-positive/erosive enthesitis, synovitis/dactylitis, reduced axial/chest mobility, or characteristic SI imaging.
 
 ## Why It Fits
 
 - Psoriasis diagnosed for more than 10 years and nail pitting/ridges for roughly 10–15 years.
+- Important new clue: after several days of prednisone, most pain was reported completely or nearly completely gone; the dose was increased to 10 mg on 2026-08-12. A broad response across multiple symptomatic sites supports reassessment for inflammatory disease.
 - Symptom onset before age 45 and duration over three months.
 - Pain near possible attachment sites: proximal hamstring origins/sit bones, medial elbow and rib/chest wall, with hip/glute/lower-back and neck/back stiffness.
 - Morning stiffness of about 15–60 minutes and worsening after sitting/inactivity.
@@ -26,6 +27,7 @@ The missing piece is objective evidence: a convincing inflammatory history and e
 - The most focal lower-body symptoms are strongly provoked by sitting, hamstring stretching/yoga and squatting—classic proximal-hamstring compression/loading mechanisms.
 - Medial elbow pain began after rowing before the latest isotretinoin course.
 - The broader syndrome began during isotretinoin exposure, which can mimic inflammatory back pain, tendinitis and even MRI-positive sacroiliitis.
+- Prednisone response is not specific: it can improve non-autoimmune inflammation and a mechanical flare with secondary guarding. It cannot establish PsA, identify whether inflammation is axial versus peripheral, or rule out overlapping tendon injury.
 - The thoracic x-ray showed mild degenerative change only. It does not assess SI joints or early inflammatory disease, but it offers no positive inflammatory support.
 
 ## How To Interpret The “Negative” Blood
