@@ -51,9 +51,10 @@ Notable episodes:
 * Further follow-up on 2026-08-09: an almost-tingling sensation sometimes occurs while sitting still; its exact location is not yet clear
 * Further follow-up on 2026-08-09: rib soreness is reproducible with pressure and hurts with a deep breath
 * Further follow-up on 2026-08-09: gluteal and piriformis-region muscles remain very tight and painful, with pain extending along the posterior hamstring region; the patient wonders whether the sciatic nerve is irritated by the muscle problem
-* No new joint swelling, heel/sole symptoms, skin/nail worsening, inflammatory eye symptoms, bowel symptoms, or sternoclavicular swelling were reported on 2026-08-09
+* Historical report on 2026-08-09: no new joint swelling, heel/sole symptoms, skin/nail worsening, inflammatory eye symptoms, bowel symptoms, or sternoclavicular swelling were reported at that time
 * Additional clarification on 2026-08-09: no shortness of breath; deep inhalation hurts as the ribs expand. Pain runs along the sides between the ribs and into the back.
 * Additional clarification on 2026-08-09: posterior-thigh symptoms feel tight/pulling rather than burning or electric. Both sides have been affected, but the right side is currently symptomatic. Whether pain extends below the knee remains unconfirmed.
 * Additional clarification on 2026-08-09: the almost-tingling sensation is diffuse across the whole back and feels like everything is tightly contracted while sitting still, rather than a clearly localized limb sensation.
 * Coughing, sneezing, bending forward, and straightening the back were not reported to worsen the buttock/posterior-thigh symptoms.
 * 2026-08-15: tinnitus was reported to come and go multiple times throughout the day. The patient associates it with the existing nausea and ear-ringing/popping symptom pattern; this is a patient-perceived relationship, not yet an established cause.
+* User report on 2026-10-08: recent tingling and pain underneath the right heel, toward the back, occurring only during a calf stretch. This is on the same side as the hamstring pain. Exact onset is unknown; 2026-10-08 is the report date (America/Los_Angeles).
